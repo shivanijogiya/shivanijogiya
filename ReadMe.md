@@ -1,14 +1,15 @@
 
 ## About Me:
 <div align="center">
-Hey Developers, I’m currently working on AI-powered and full-stack projects focusing on real-world problem solving  <br>I’m looking to collaborate on AI, Web Development and System Design projects**  <br>I’m currently learning advanced backend systems, distributed computing, and applied machine learning**  <br>Ask me about **MERN stack, computer vision, AR/VR development, and DSA**  <br>Fun fact: I love turning hackathon ideas into production-ready applications**
+Hey Developers, I’m currently working on AI-powered and full-stack projects focusing on real-world problem solving  <br>I’m looking to collaborate on AI, Web Development and System Design projects  <br>I’m currently learning advanced backend systems, distributed computing, and applied machine learning  <br>Ask me about MERN stack, computer vision, AR/VR development, and DSA  <br>Fun fact: I love turning hackathon ideas into production-ready applications
 </div> 
 <br>
 <!-- Animated Typing Effect -->
+<div align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full-Stack+%26+AI+Developer;Building+Real-World+Tech+Solutions;Problem+Solver+%7C+Systems+Builder;MERN+%7C+AI+%7C+AR%2FVR;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </a>
-
+</div>
 <br/>
 
 ## Socials:
