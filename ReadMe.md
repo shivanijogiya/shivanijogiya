@@ -66,9 +66,9 @@ Hey Developers, I’m currently working on AI-powered and full-stack projects fo
 </div>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shivanijogiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shivanijogiya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanijogiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=shivanijogiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com?user=shivanijogiya&theme=dark&hide_border=false) </br>
+![](https://github-readme-stats-eight-theta.vercel.app.app/api/top-langs/?username=shivanijogiya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## Contribution Activity
